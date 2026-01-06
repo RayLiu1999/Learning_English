@@ -1,156 +1,168 @@
 # 📚 不熟單字庫
 
-> 最後更新：2026-01-05
+> 最後更新：2026-01-06
 
 ## 總覽
 
 | 重要程度       | 數量    |
 | -------------- | ------- |
-| ⭐⭐⭐⭐⭐ (5) | 125     |
-| ⭐⭐⭐⭐ (4)   | 89      |
-| ⭐⭐⭐ (3)     | 43      |
-| ⭐⭐ (2)       | 12      |
-| **總計**       | **269** |
+| ⭐⭐⭐⭐⭐ (5) | 145     |
+| ⭐⭐⭐⭐ (4)   | 158     |
+| ⭐⭐⭐ (3)     | 67      |
+| ⭐⭐ (2)       | 13      |
+| **總計**       | **383** |
 
 ---
 
 ## ⭐⭐⭐⭐⭐ 重要程度 5（核心單字）
 
-| 單字                      | 中文意思                                              | 詞性               | 已測驗 |
-| ------------------------- | ----------------------------------------------------- | ------------------ | ------ |
-| stuck                     | 卡住的                                                | 形容詞             | ⬜     |
-| grab / grabbing           | 抓取                                                  | 動詞               | ⬜     |
-| subject                   | N: 主題 / 對象（誰或什麼）; Adj: 容易受影響、可能改變 | 名詞, 形容詞       | ⬜     |
-| budget                    | 預算                                                  | 名詞               | ⬜     |
-| deliver                   | 遞送、交付                                            | 動詞               | ⬜     |
-| check（確認）             | 帳單、支票                                            | 名詞               | ⬜     |
-| efficiency                | 效率                                                  | 名詞               | ⬜     |
-| promote                   | 晉升、提升、推廣、促進                                | 動詞, 名詞         | ⬜     |
-| accurate                  | 準確的                                                | 形容詞             | ⬜     |
-| additional                | 額外的                                                | 形容詞             | ⬜     |
-| resumes                   | 履歷                                                  | 名詞               | ⬜     |
-| applicants                | 申請人                                                | 名詞               | ⬜     |
-| qualified / qualification | 資格齊全 / 資格                                       | 形容詞             | ⬜     |
-| neighborhood              | 附近的、社區                                          | 名詞               | ⬜     |
-| individual                | 個人                                                  | 名詞               | ⬜     |
-| scenario                  | 設想                                                  | 名詞               | ⬜     |
-| promotion                 | 晉升                                                  | 名詞               | ⬜     |
-| performance               | 表現                                                  | 名詞               | ⬜     |
-| vendor                    | 攤販、供應商                                          | 名詞               | ⬜     |
-| various                   | 各種各樣的                                            | 形容詞             | ⬜     |
-| good                      | 產品                                                  | 名詞               | ⬜     |
-| startup                   | 新創                                                  | 名詞               | ⬜     |
-| contract                  | 契約                                                  | 名詞               | ⬜     |
-| deal                      | 交易                                                  | 動詞               | ⬜     |
-| purchase                  | 購買                                                  | 動詞               | ⬜     |
-| align                     | 與…對齊 / 一致                                        | 動詞               | ⬜     |
-| long-term                 | 長期                                                  | 名詞               | ⬜     |
-| launch                    | 發射；推出、發布                                      | 動詞, 名詞         | ⬜     |
-| proficient                | 熟練的、精通的                                        | 形容詞             | ⬜     |
-| reservation               | 預定                                                  | 名詞               | ⬜     |
-| shift（輪班 / 改變）      | 轉移；班（上班的那種）                                | 名詞               | ⬜     |
-| particular                | 特別的                                                | 形容詞             | ⬜     |
-| spam                      | 垃圾郵件                                              | 名詞               | ⬜     |
-| passionate                | 熱情的                                                | 形容詞             | ⬜     |
-| achieve                   | 達到                                                  | 動詞               | ⬜     |
-| approach                  | 方法 / 接近                                           | 動詞, 名詞         | ⬜     |
-| deserve                   | 應得                                                  | 動詞               | ⬜     |
-| several                   | 幾個、數個                                            | 形容詞             | ⬜     |
-| exhausted                 | 筋疲力盡的                                            | 形容詞             | ⬜     |
-| wrap                      | 包裹、纏繞                                            | 動詞               | ⬜     |
-| take                      | 口語用法：意見 / 看法（等於：opinion）                | 名詞               | ⬜     |
-| perspective               | 看法                                                  | 名詞               | ⬜     |
-| impress                   | 使印象深刻                                            | 動詞               | ⬜     |
-| major                     | 主要的、主修的                                        | 形容詞             | ⬜     |
-| quality / quantity        | 品質 / 數量                                           | 名詞               | ⬜     |
-| eventually                | 最終、最後                                            | 副詞               | ⬜     |
-| preferred                 | 首選的                                                | 形容詞             | ⬜     |
-| infrastructure            | 基礎設施；底層系統                                    | 名詞               | ⬜     |
-| besides                   | 除了；除此之外；而且                                  | 介系詞, 副詞       | ⬜     |
-| integration               | 整合                                                  | 名詞               | ⬜     |
-| adopt                     | 採納；採用；領養                                      | 動詞               | ⬜     |
-| graduate                  | 畢業；畢業生                                          | 動詞, 名詞         | ⬜     |
-| transition                | 轉變；過渡                                            | 動詞, 名詞         | ⬜     |
-| refactor                  | 重構（程式碼）                                        | 動詞               | ⬜     |
-| impressive                | 令人印象深刻的                                        | 形容詞             | ⬜     |
-| motivated                 | 積極主動的；有動機的                                  | 形容詞             | ⬜     |
-| forward                   | 向前；轉寄                                            | 副詞, 動詞         | ⬜     |
-| refactoring               | 重構（過程）                                          | 名詞               | ⬜     |
-| maintainable              | 可維護的                                              | 形容詞             | ⬜     |
-| structure                 | 結構；架構                                            | 名詞               | ⬜     |
-| actively                  | 積極地                                                | 副詞               | ⬜     |
-| through                   | 透過                                                  | 介系詞, 副詞       | ⬜     |
-| integrate                 | 整合                                                  | 動詞               | ⬜     |
-| customized                | 客製化的                                              | 形容詞             | ⬜     |
-| rewarding                 | 有成就感的；值得的                                    | 形容詞             | ⬜     |
-| innovative                | 創新的                                                | 形容詞             | ⬜     |
-| collaborative             | 協作的                                                | 形容詞             | ⬜     |
-| proactive                 | 主動的                                                | 形容詞             | ⬜     |
-| consistently              | 一貫地；持續地                                        | 副詞               | ⬜     |
-| effective                 | 有效的                                                | 形容詞             | ⬜     |
-| adhere                    | 遵守；遵循                                            | 動詞               | ⬜     |
-| term                      | 條款；術語；期間                                      | 名詞               | ⬜     |
-| policy                    | 政策；規範                                            | 名詞               | ⬜     |
-| struggle                  | 掙扎、努力應付                                        | 動詞               | ⬜     |
-| produce                   | 生產、製造、產出、提出（結果／證據）                  | 動詞               | ⬜     |
-| awkward                   | 尷尬的、不自在的、彆扭的、不好處理的                  | 形容詞             | ⬜     |
-| relatively                | 相對地、比較起來、還算是                              | 副詞               | ⬜     |
-| research                  | 研究、調查、探索（不可數名詞）                        | 動詞, 名詞         | ⬜     |
-| matter                    | 重要、影響、事情／問題、本質                          | 動詞, 名詞         | ⬜     |
-| Factor                    | 因素、要素、考量點                                    | 動詞, 名詞         | ⬜     |
-| outcome                   | 結果、成果、結局                                      | 名詞               | ⬜     |
-| reliable                  | 可靠的、值得信賴的、穩定的                            | 形容詞             | ⬜     |
-| scalable                  | 可擴展的、可隨需求成長的                              | 形容詞             | ⬜     |
-| appointment               | 預約；約定的會面時間                                  | 名詞               | ⬜     |
-| maintain                  | 維護；維持；保持良好狀態                              | 動詞               | ⬜     |
-| statement                 | 陳述；聲明                                            | 名詞               | ⬜     |
-| productive                | 有成效的；高產值的                                    | 形容詞             | ⬜     |
-| pronunciation             | 發音                                                  | 名詞               | ⬜     |
-| grammar                   | 文法                                                  | 名詞               | ⬜     |
-| opinion                   | 意見；看法；主張                                      | 名詞               | ⬜     |
-| fluent                    | 流利的                                                | 形容詞             | ⬜     |
-| variety                   | 種類；多樣性                                          | 名詞               | ⬜     |
-| architecture              | 架構；系統設計                                        | 名詞               | ⬜     |
-| involve                   | 涉及；包含；需要（某人參與）                          | 動詞               | ⬜     |
-| claim                     | 聲稱；主張；索取                                      | 動詞, 名詞         | ⬜     |
-| count                     | 計算；算數；重要                                      | 動詞, 名詞         | ⬜     |
-| specific                  | 具體的；特定的                                        | 形容詞             | ⬜     |
-| below                     | 在下方；低於                                          | 介系詞, 副詞       | ⬜     |
-| perform                   | 執行；表現                                            | 動詞               | ⬜     |
-| divide                    | 分割；拆分                                            | 動詞               | ⬜     |
-| aspect                    | 面向；層面                                            | 名詞               | ⬜     |
-| interactive               | 互動式的                                              | 形容詞             | ⬜     |
-| calm                      | 平靜的；冷靜                                          | 動詞, 名詞, 形容詞 | ⬜     |
-| atmosphere                | 氣氛；大氣                                            | 名詞               | ⬜     |
-| nearby                    | 附近的                                                | 副詞, 形容詞       | ⬜     |
-| suggest                   | 建議；暗示                                            | 動詞               | ⬜     |
-| portfolio                 | 作品集；投資組合                                      | 名詞               | ⬜     |
-| workload                  | 工作量                                                | 名詞               | ⬜     |
-| precisely                 | 精確地                                                | 副詞               | ⬜     |
-| Meant                     | 意指、意味著 (Mean 過去式)                            | 動詞               | ⬜     |
-| Within                    | 在...範圍內                                           | 介系詞             | ⬜     |
-| Just                      | 剛剛/只是/就是(加強語氣)                              | 副詞               | ⬜     |
-| Corporate                 | 公司的、企業的                                        | 形容詞             | ⬜     |
-| Apply                     | 申請/應用/塗抹                                        | 動詞               | ⬜     |
-| Relevant                  | 相關的、切題的                                        | 形容詞             | ⬜     |
-| Negotiate                 | 談判、協商                                            | 動詞               | ⬜     |
-| Despite                   | 儘管、雖然                                            | 介系詞             | ⬜     |
-| Alternative               | 替代方案、選擇                                        | 名詞               | ⬜     |
-| Prisoners                 | 囚犯、犯人/(比喻)受...束縛的人                        | 名詞               | ⬜     |
-| occasionally              | 偶爾                                                  | 副詞               | ⬜     |
-| Overwhelm                 | 壓倒、使不知所措                                      | 動詞               | ⬜     |
-| Unless                    | 除非                                                  | 連接詞             | ⬜     |
-| Commensurate              | 相稱的、相當的                                        | 形容詞             | ⬜     |
-| Thing/Things              | 事情、東西                                            | 名詞               | ⬜     |
-| Prompt                    | 迅速的 / 促使 / 提示                                  | 形容詞, 動詞, 名詞 | ⬜     |
-| Significant               | 顯著的、重要的                                        | 形容詞             | ⬜     |
-| Imply                     | 暗示、意味著                                          | 動詞               | ⬜     |
-| Measure                   | 衡量、測量 / 措施                                     | 動詞, 名詞         | ⬜     |
-| Once                      | 一次 / 曾經 / 一旦...就...                            | 副詞, 連接詞       | ⬜     |
-| Team player               | 具團隊精神的人                                        | 名詞               | ⬜     |
-| Against                   | 對抗、違反、緊靠著                                    | 介系詞             | ⬜     |
-| Optimization              | 優化、最佳化                                          | 名詞               | ⬜     |
-| Ecosystem                 | 生態系統（含商業生態系）                              | 名詞               | ⬜     |
+| 單字                 | 中文意思                                              | 詞性               | 已測驗 |
+| -------------------- | ----------------------------------------------------- | ------------------ | ------ |
+| stuck                | 卡住的                                                | 形容詞             | ⬜     |
+| grab / grabbing      | 抓取                                                  | 動詞               | ⬜     |
+| subject              | N: 主題 / 對象（誰或什麼）; Adj: 容易受影響、可能改變 | 名詞, 形容詞       | ⬜     |
+| budget               | 預算                                                  | 名詞               | ⬜     |
+| deliver              | 遞送、交付                                            | 動詞               | ⬜     |
+| check（確認）        | 帳單、支票                                            | 名詞               | ⬜     |
+| efficiency           | 效率                                                  | 名詞               | ⬜     |
+| promote              | 晉升、提升、推廣、促進                                | 動詞, 名詞         | ⬜     |
+| accurate             | 準確的                                                | 形容詞             | ⬜     |
+| additional           | 額外的                                                | 形容詞             | ⬜     |
+| resumes              | 履歷                                                  | 名詞               | ⬜     |
+| applicants           | 申請人                                                | 名詞               | ⬜     |
+| qualified            | 資格齊全                                              | 形容詞             | ⬜     |
+| neighborhood         | 附近的、社區                                          | 名詞               | ⬜     |
+| individual           | 個人                                                  | 名詞               | ⬜     |
+| scenario             | 設想                                                  | 名詞               | ⬜     |
+| promotion            | 晉升                                                  | 名詞               | ⬜     |
+| performance          | 表現                                                  | 名詞               | ⬜     |
+| vendor               | 攤販、供應商                                          | 名詞               | ⬜     |
+| various              | 各種各樣的                                            | 形容詞             | ⬜     |
+| good                 | 產品                                                  | 名詞               | ⬜     |
+| startup              | 新創                                                  | 名詞               | ⬜     |
+| contract             | 契約                                                  | 名詞               | ⬜     |
+| deal                 | 交易                                                  | 動詞               | ⬜     |
+| purchase             | 購買                                                  | 動詞               | ⬜     |
+| align                | 與…對齊 / 一致                                        | 動詞               | ⬜     |
+| long-term            | 長期                                                  | 名詞               | ⬜     |
+| launch               | 發射；推出、發布                                      | 動詞, 名詞         | ⬜     |
+| proficient           | 熟練的、精通的                                        | 形容詞             | ⬜     |
+| reservation          | 預定                                                  | 名詞               | ⬜     |
+| shift（輪班 / 改變） | 轉移；班（上班的那種）                                | 名詞               | ⬜     |
+| particular           | 特別的                                                | 形容詞             | ⬜     |
+| spam                 | 垃圾郵件                                              | 名詞               | ⬜     |
+| passionate           | 熱情的                                                | 形容詞             | ⬜     |
+| achieve              | 達到                                                  | 動詞               | ⬜     |
+| approach             | 方法 / 接近                                           | 動詞, 名詞         | ⬜     |
+| deserve              | 應得                                                  | 動詞               | ⬜     |
+| several              | 幾個、數個                                            | 形容詞             | ⬜     |
+| exhausted            | 筋疲力盡的                                            | 形容詞             | ⬜     |
+| wrap                 | 包裹、纏繞                                            | 動詞               | ⬜     |
+| take                 | 口語用法：意見 / 看法（等於：opinion）                | 名詞               | ⬜     |
+| perspective          | 看法                                                  | 名詞               | ⬜     |
+| impress              | 使印象深刻                                            | 動詞               | ⬜     |
+| major                | 主要的、主修的                                        | 形容詞             | ⬜     |
+| quality / quantity   | 品質 / 數量                                           | 名詞               | ⬜     |
+| eventually           | 最終、最後                                            | 副詞               | ⬜     |
+| preferred            | 首選的                                                | 形容詞             | ⬜     |
+| infrastructure       | 基礎設施；底層系統                                    | 名詞               | ⬜     |
+| besides              | 除了；除此之外；而且                                  | 介系詞, 副詞       | ⬜     |
+| integration          | 整合                                                  | 名詞               | ⬜     |
+| adopt                | 採納；採用；領養                                      | 動詞               | ⬜     |
+| graduate             | 畢業；畢業生                                          | 動詞, 名詞         | ⬜     |
+| transition           | 轉變；過渡                                            | 動詞, 名詞         | ⬜     |
+| refactor             | 重構（程式碼）                                        | 動詞               | ⬜     |
+| impressive           | 令人印象深刻的                                        | 形容詞             | ⬜     |
+| motivated            | 積極主動的；有動機的                                  | 形容詞             | ⬜     |
+| forward              | 向前；轉寄                                            | 副詞, 動詞         | ⬜     |
+| refactoring          | 重構（過程）                                          | 名詞               | ⬜     |
+| maintainable         | 可維護的                                              | 形容詞             | ⬜     |
+| structure            | 結構；架構                                            | 名詞               | ⬜     |
+| actively             | 積極地                                                | 副詞               | ⬜     |
+| through              | 透過                                                  | 介系詞, 副詞       | ⬜     |
+| integrate            | 整合                                                  | 動詞               | ⬜     |
+| customized           | 客製化的                                              | 形容詞             | ⬜     |
+| rewarding            | 有成就感的；值得的                                    | 形容詞             | ⬜     |
+| innovative           | 創新的                                                | 形容詞             | ⬜     |
+| collaborative        | 協作的                                                | 形容詞             | ⬜     |
+| proactive            | 主動的                                                | 形容詞             | ⬜     |
+| consistently         | 一貫地；持續地                                        | 副詞               | ⬜     |
+| effective            | 有效的                                                | 形容詞             | ⬜     |
+| adhere               | 遵守；遵循                                            | 動詞               | ⬜     |
+| term                 | 條款；術語；期間                                      | 名詞               | ⬜     |
+| policy               | 政策；規範                                            | 名詞               | ⬜     |
+| struggle             | 掙扎、努力應付                                        | 動詞               | ⬜     |
+| produce              | 生產、製造、產出、提出（結果／證據）                  | 動詞               | ⬜     |
+| awkward              | 尷尬的、不自在的、彆扭的、不好處理的                  | 形容詞             | ⬜     |
+| relatively           | 相對地、比較起來、還算是                              | 副詞               | ⬜     |
+| research             | 研究、調查、探索（不可數名詞）                        | 動詞, 名詞         | ⬜     |
+| matter               | 重要、影響、事情／問題、本質                          | 動詞, 名詞         | ⬜     |
+| Factor               | 因素、要素、考量點                                    | 動詞, 名詞         | ⬜     |
+| outcome              | 結果、成果、結局                                      | 名詞               | ⬜     |
+| reliable             | 可靠的、值得信賴的、穩定的                            | 形容詞             | ⬜     |
+| scalable             | 可擴展的、可隨需求成長的                              | 形容詞             | ⬜     |
+| appointment          | 預約；約定的會面時間                                  | 名詞               | ⬜     |
+| maintain             | 維護；維持；保持良好狀態                              | 動詞               | ⬜     |
+| statement            | 陳述；聲明                                            | 名詞               | ⬜     |
+| productive           | 有成效的；高產值的                                    | 形容詞             | ⬜     |
+| pronunciation        | 發音                                                  | 名詞               | ⬜     |
+| grammar              | 文法                                                  | 名詞               | ⬜     |
+| opinion              | 意見；看法；主張                                      | 名詞               | ⬜     |
+| fluent               | 流利的                                                | 形容詞             | ⬜     |
+| variety              | 種類；多樣性                                          | 名詞               | ⬜     |
+| architecture         | 架構；系統設計                                        | 名詞               | ⬜     |
+| involve              | 涉及；包含；需要（某人參與）                          | 動詞               | ⬜     |
+| claim                | 聲稱；主張；索取                                      | 動詞, 名詞         | ⬜     |
+| count                | 計算；算數；重要                                      | 動詞, 名詞         | ⬜     |
+| specific             | 具體的；特定的                                        | 形容詞             | ⬜     |
+| below                | 在下方；低於                                          | 介系詞, 副詞       | ⬜     |
+| perform              | 執行；表現                                            | 動詞               | ⬜     |
+| divide               | 分割；拆分                                            | 動詞               | ⬜     |
+| aspect               | 面向；層面                                            | 名詞               | ⬜     |
+| interactive          | 互動式的                                              | 形容詞             | ⬜     |
+| calm                 | 平靜的；冷靜                                          | 動詞, 名詞, 形容詞 | ⬜     |
+| atmosphere           | 氣氛；大氣                                            | 名詞               | ⬜     |
+| nearby               | 附近的                                                | 副詞, 形容詞       | ⬜     |
+| suggest              | 建議；暗示                                            | 動詞               | ⬜     |
+| portfolio            | 作品集；投資組合                                      | 名詞               | ⬜     |
+| workload             | 工作量                                                | 名詞               | ⬜     |
+| precisely            | 精確地                                                | 副詞               | ⬜     |
+| Meant                | 意指、意味著 (Mean 過去式)                            | 動詞               | ⬜     |
+| Within               | 在...範圍內                                           | 介系詞             | ⬜     |
+| Just                 | 剛剛/只是/就是(加強語氣)                              | 副詞               | ⬜     |
+| Corporate            | 公司的、企業的                                        | 形容詞             | ⬜     |
+| Apply                | 申請/應用/塗抹                                        | 動詞               | ⬜     |
+| Relevant             | 相關的、切題的                                        | 形容詞             | ⬜     |
+| Negotiate            | 談判、協商                                            | 動詞               | ⬜     |
+| Despite              | 儘管、雖然                                            | 介系詞             | ⬜     |
+| Alternative          | 替代方案、選擇                                        | 名詞               | ⬜     |
+| Prisoners            | 囚犯、犯人/(比喻)受...束縛的人                        | 名詞               | ⬜     |
+| occasionally         | 偶爾                                                  | 副詞               | ⬜     |
+| Overwhelm            | 壓倒、使不知所措                                      | 動詞               | ⬜     |
+| Unless               | 除非                                                  | 連接詞             | ⬜     |
+| Commensurate         | 相稱的、相當的                                        | 形容詞             | ⬜     |
+| Thing/Things         | 事情、東西                                            | 名詞               | ⬜     |
+| Prompt               | 迅速的 / 促使 / 提示                                  | 形容詞, 動詞, 名詞 | ⬜     |
+| Significant          | 顯著的、重要的                                        | 形容詞             | ⬜     |
+| Imply                | 暗示、意味著                                          | 動詞               | ⬜     |
+| Measure              | 衡量、測量 / 措施                                     | 動詞, 名詞         | ⬜     |
+| Once                 | 一次 / 曾經 / 一旦...就...                            | 副詞, 連接詞       | ⬜     |
+| Team player          | 具團隊精神的人                                        | 名詞               | ⬜     |
+| Against              | 對抗、違反、緊靠著                                    | 介系詞             | ⬜     |
+| Optimization         | 優化、最佳化                                          | 名詞               | ⬜     |
+| Ecosystem            | 生態系統（含商業生態系）                              | 名詞               | ⬜     |
+| Eligible             | 有資格的（身分條件符合）                              | 形容詞             | ⬜     |
+| Proficiency          | 精通、熟練度                                          | 名詞               | ⬜     |
+| Concern              | 擔憂 / 涉及                                           | 名詞, 動詞         | ⬜     |
+| Fair                 | 公平的 / 博覽會                                       | 形容詞, 名詞       | ⬜     |
+| Offer                | 提供、提議 / 錄取信、報價                             | 動詞, 名詞         | ⬜     |
+| Criteria             | 標準、準則（複數）                                    | 名詞               | ⬜     |
+| Comply               | 遵守、順從                                            | 動詞               | ⬜     |
+| Approval             | 批准、認可                                            | 名詞               | ⬜     |
+| Procedure            | 程序、手續                                            | 名詞               | ⬜     |
+| Compensation         | 薪資報酬 / 補償金                                     | 名詞               | ⬜     |
+| Obligation           | 義務、責任                                            | 名詞               | ⬜     |
+| Authorize            | 授權、批准                                            | 動詞               | ⬜     |
 
 ---
 
@@ -280,6 +292,42 @@
 | Unveil              | 揭幕、公佈(新產品)           | 動詞         | ⬜     |
 | Attach              | 附加、貼上                   | 動詞         | ⬜     |
 | Comprehension       | 理解能力、領悟               | 名詞         | ⬜     |
+| Prohibit            | 禁止                         | 動詞         | ⬜     |
+| Enforce             | 執行(法律)、強制             | 動詞         | ⬜     |
+| Legislation         | 立法、法規                   | 名詞         | ⬜     |
+| Restrict            | 限制、限定                   | 動詞         | ⬜     |
+| Identify            | 識別、認出                   | 動詞         | ⬜     |
+| Associate           | 聯想/交往 / 副手/同事        | 動詞, 名詞   | ⬜     |
+| Employment          | 就業、雇用                   | 名詞         | ⬜     |
+| Lack                | 缺乏                         | 動詞, 名詞   | ⬜     |
+| Managerial          | 管理的、經理的               | 形容詞       | ⬜     |
+| Familiar            | 熟悉的                       | 形容詞       | ⬜     |
+| Prospective         | 潛在的、未來的               | 形容詞       | ⬜     |
+| Appeal              | 吸引力/呼籲 / 上訴           | 名詞, 動詞   | ⬜     |
+| Specialize          | 專攻、專門研究               | 動詞         | ⬜     |
+| Consultant          | 顧問                         | 名詞         | ⬜     |
+| Entitle             | 給予權利/命名                | 動詞         | ⬜     |
+| Payroll             | 薪資名單/發薪                | 名詞         | ⬜     |
+| Certification       | 認證、證書                   | 名詞         | ⬜     |
+| Occupation          | 職業、佔領                   | 名詞         | ⬜     |
+| Wage                | 工資（時薪/周薪）            | 名詞         | ⬜     |
+| Aside               | 在旁邊、除...外              | 副詞         | ⬜     |
+| Attire              | 服裝（正式）                 | 名詞         | ⬜     |
+| Send in             | 遞交、寄送                   | 片語動詞     | ⬜     |
+| Aptitude            | 資質、天賦                   | 名詞         | ⬜     |
+| Admit               | 承認 / 准許進入              | 動詞         | ⬜     |
+| Advise              | 建議、勸告                   | 動詞         | ⬜     |
+| Insufficient        | 不足的、不夠的               | 形容詞       | ⬜     |
+| Severely            | 嚴厲地、嚴重地               | 副詞         | ⬜     |
+| Code                | 法規/規範 / 代碼             | 名詞         | ⬜     |
+| Refrain             | 克制、忍住                   | 動詞         | ⬜     |
+| Thoroughly          | 徹底地、仔細地               | 副詞         | ⬜     |
+| Revise              | 修訂、修改                   | 動詞         | ⬜     |
+| Inspection          | 檢查、視察                   | 名詞         | ⬜     |
+| Arrangement         | 安排、約定                   | 名詞         | ⬜     |
+| Mandate             | 強制執行 / 命令/授權         | 動詞, 名詞   | ⬜     |
+| Drastically         | 劇烈地、大幅地               | 副詞         | ⬜     |
+| Constant            | 持續的 / 常數                | 形容詞, 名詞 | ⬜     |
 
 ---
 
@@ -344,6 +392,16 @@
 | Jail         | 監獄、拘留所             | 名詞, 動詞         | ⬜     |
 | Brightness   | 亮度、聰明               | 名詞               | ⬜     |
 | Compact      | 緊湊的、小型的           | 形容詞, 名詞       | ⬜     |
+| Abolish      | 廢除（制度、法律）       | 動詞               | ⬜     |
+| Apprehensive | 憂慮的、擔心的           | 形容詞             | ⬜     |
+| Leather      | 皮革                     | 名詞               | ⬜     |
+| Badly        | 嚴重地/差勁地 / 非常     | 副詞               | ⬜     |
+| Unusual      | 不尋常的                 | 形容詞             | ⬜     |
+| Spoiled      | 被寵壞的 / 腐敗的        | 形容詞             | ⬜     |
+| Alarmed      | 驚恐的、擔憂的           | 形容詞             | ⬜     |
+| Newcomer     | 新來者、新手             | 名詞               | ⬜     |
+| Tidy         | 整潔的 / 整理            | 形容詞, 動詞       | ⬜     |
+| Plentiful    | 豐富的、充足的           | 形容詞             | ⬜     |
 
 ---
 
@@ -363,3 +421,4 @@
 | Laundromat              | 自助洗衣店               | 名詞         | ⬜     |
 | Worker bees             | 勤奮工作者(小蜜蜂)       | 名詞         | ⬜     |
 | Adult                   | 成人、成年的             | 名詞, 形容詞 | ⬜     |
+| Sneaker                 | 運動鞋（美式）           | 名詞         | ⬜     |
