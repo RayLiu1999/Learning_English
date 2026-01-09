@@ -1,16 +1,16 @@
 # 📚 不熟單字庫
 
-> 最後更新：2026-01-06
+> 最後更新：2026-01-09
 
 ## 總覽
 
 | 重要程度       | 數量    |
 | -------------- | ------- |
-| ⭐⭐⭐⭐⭐ (5) | 145     |
-| ⭐⭐⭐⭐ (4)   | 158     |
-| ⭐⭐⭐ (3)     | 67      |
+| ⭐⭐⭐⭐⭐ (5) | 160     |
+| ⭐⭐⭐⭐ (4)   | 191     |
+| ⭐⭐⭐ (3)     | 81      |
 | ⭐⭐ (2)       | 13      |
-| **總計**       | **383** |
+| **總計**       | **445** |
 
 ---
 
@@ -163,6 +163,20 @@
 | Compensation         | 薪資報酬 / 補償金                                     | 名詞               | ⬜     |
 | Obligation           | 義務、責任                                            | 名詞               | ⬜     |
 | Authorize            | 授權、批准                                            | 動詞               | ⬜     |
+| Forward-thinking     | 具前瞻性的、有遠見的                                  | 形容詞             | ⬜     |
+| Initiative           | 1. 主動性 2. 倡議/新方案                              | 名詞               | ⬜     |
+| Delegate             | 1. 委派/授權 (v.) 2. 代表 (n.)                        | 動詞, 名詞         | ⬜     |
+| As                   | 1. 當...時/隨著 2. 因為 3. 作為/像...一樣             | 連接詞, 介系詞     | ⬜     |
+| Begin                | 開始                                                  | 動詞               | ⬜     |
+| Leave                | 1. 離開/遺留 2. 休假                                  | 動詞, 名詞         | ⬜     |
+| Versatile            | 1. 多功能的 2. 多才多藝的                             | 形容詞             | ⬜     |
+| Oriented             | 以...為導向的                                         | 形容詞             | ⬜     |
+| Influence            | 影響、勢力                                            | 名詞, 動詞         | ⬜     |
+| Workforce            | 勞動力、全體員工                                      | 名詞               | ⬜     |
+| Excel                | 勝過、優於、擅長                                      | 動詞               | ⬜     |
+| Profession           | 職業 (通常指專業)                                     | 名詞               | ⬜     |
+| Conduct              | 1. 行為/品行 (n.) 2. 執行/指揮 (v.)                   | 名詞, 動詞         | ⬜     |
+| Preeminent           | 卓越的、傑出的                                        | 形容詞             | ⬜     |
 
 ---
 
@@ -328,80 +342,129 @@
 | Mandate             | 強制執行 / 命令/授權         | 動詞, 名詞   | ⬜     |
 | Drastically         | 劇烈地、大幅地               | 副詞         | ⬜     |
 | Constant            | 持續的 / 常數                | 形容詞, 名詞 | ⬜     |
+| Colleague           | 同事                         | 名詞         | ⬜     |
+| Valuable            | 有價值的、貴重的             | 形容詞       | ⬜     |
+| Specialized         | 專門的、專業的               | 形容詞       | ⬜     |
+| Acquire             | 1. 獲得/習得 2. 收購         | 動詞         | ⬜     |
+| Coordinate          | 協調                         | 動詞         | ⬜     |
+| Minute              | 1. 會議記錄(複數) 2. 分鐘    | 名詞         | ⬜     |
+| Compromise          | 妥協、讓步                   | 名詞, 動詞   | ⬜     |
+| Middle ground       | 中間立場、折衷方案           | 名詞         | ⬜     |
+| Foster              | 培養、促進、收養             | 動詞         | ⬜     |
+| Clarify             | 澄清、闡明                   | 動詞         | ⬜     |
+| Equipment           | 設備、裝備                   | 名詞         | ⬜     |
+| Convey              | 傳達、運送                   | 動詞         | ⬜     |
+| Unveiled            | 揭幕、公佈 (過去式/pp)       | 動詞         | ⬜     |
+| Chip                | 1. 晶片 2. 碎片/洋芋片       | 名詞, 動詞   | ⬜     |
+| Prerequisite        | 先決條件、必要條件           | 名詞, 形容詞 | ⬜     |
+| Preliminary         | 初步的、預備的               | 形容詞       | ⬜     |
+| Mindful             | 留意的、用心的               | 形容詞       | ⬜     |
+| Increment           | 增量、增加                   | 名詞, 動詞   | ⬜     |
+| Simplicity          | 簡單、樸素                   | 名詞         | ⬜     |
+| Stellar             | 1. 傑出的/顯著的 2. 星形的   | 形容詞       | ⬜     |
+| Paycheck            | 薪資支票、薪水               | 名詞         | ⬜     |
+| Fluency             | 流利度                       | 名詞         | ⬜     |
+| Bilingual           | 雙語的                       | 形容詞, 名詞 | ⬜     |
+| Appearance          | 1. 外表 2. 出現              | 名詞         | ⬜     |
+| Enthusiastic        | 熱情的、熱衷的               | 形容詞       | ⬜     |
+| Devoted             | 摼愛的、獻身的               | 形容詞       | ⬜     |
+| Accustomed          | 習慣的                       | 形容詞       | ⬜     |
+| Demanding           | 1. 要求高的 2. 費力的/吃力的 | 形容詞       | ⬜     |
+| Adept               | 熟練的、內行的               | 形容詞, 名詞 | ⬜     |
+| Voluntary           | 自願的、志願的               | 形容詞       | ⬜     |
 
 ---
 
 ## ⭐⭐⭐ 重要程度 3
 
-| 單字         | 中文意思                 | 詞性               | 已測驗 |
-| ------------ | ------------------------ | ------------------ | ------ |
-| frustrations | 挫折                     | 名詞               | ⬜     |
-| amusement    | 娛樂                     | 名詞               | ⬜     |
-| guides       | 指南                     | 名詞               | ⬜     |
-| dizzy        | 暈眩的                   | 形容詞             | ⬜     |
-| belly        | 腹部                     | 名詞               | ⬜     |
-| supervision  | 監督                     | 名詞               | ⬜     |
-| resemble     | 類似                     | 動詞               | ⬜     |
-| discrepancy  | 差異                     | 名詞               | ⬜     |
-| festive      | 節慶的                   | 形容詞             | ⬜     |
-| shortened    | 縮短了                   | 形容詞             | ⬜     |
-| standardized | 標準化                   | 形容詞             | ⬜     |
-| disguised    | 偽裝的                   | 形容詞             | ⬜     |
-| pretentious  | 自命不凡的、炫耀的       | 形容詞             | ⬜     |
-| horrific     | 駭人聽聞的               | 形容詞             | ⬜     |
-| Cambridge    | 劍橋                     | 名詞               | ⬜     |
-| Oxford       | 牛津                     | 名詞               | ⬜     |
-| pray         | 祈禱                     | 動詞               | ⬜     |
-| flame        | 火焰                     | 動詞, 名詞         | ⬜     |
-| moderation   | 適度；節制               | 名詞               | ⬜     |
-| tulip        | 鬱金香                   | 名詞               | ⬜     |
-| descriptors  | 描述符；描述用語         | 名詞               | ⬜     |
-| centrally    | 位於中心地；集中地       | 副詞               | ⬜     |
-| punctuality  | 守時                     | 名詞               | ⬜     |
-| stickler     | 吹毛求疵的人             | 名詞               | ⬜     |
-| descend      | 下降；下來               | 動詞               | ⬜     |
-| errands      | 瑣事；跑腿               | 名詞               | ⬜     |
-| hammock      | 吊床                     | 名詞               | ⬜     |
-| Stubborn     | 固執的、倔強的           | 形容詞             | ⬜     |
-| Fitness      | 健身、健康狀況           | 名詞               | ⬜     |
-| Charity      | 慈善、慈善機構           | 名詞               | ⬜     |
-| Economist    | 經濟學家                 | 名詞               | ⬜     |
-| Reserve Bank | 中央銀行 (部分國家用語)  | 名詞               | ⬜     |
-| Automobiles  | 汽車 (Auto)              | 名詞               | ⬜     |
-| Cottage      | 鄉間小屋、度假小別墅     | 名詞               | ⬜     |
-| Rustic       | 鄉村風的、質樸粗獷的     | 形容詞             | ⬜     |
-| Fade         | 逐漸消失、褪色           | 動詞               | ⬜     |
-| Emptiness    | 空虛(感)、空曠           | 名詞               | ⬜     |
-| Summon       | 傳喚/(遊戲)召喚          | 動詞               | ⬜     |
-| Silly        | 傻氣的、糊塗的           | 形容詞             | ⬜     |
-| Awe          | 敬畏、驚嘆               | 名詞, 動詞         | ⬜     |
-| Westbound    | 向西行的                 | 形容詞, 副詞       | ⬜     |
-| Elevation    | 海拔、標高、立面圖       | 名詞               | ⬜     |
-| Hallway      | 走廊、玄關               | 名詞               | ⬜     |
-| Corridor     | 走廊（較長/正式）        | 名詞               | ⬜     |
-| Cinema       | 電影院、電影業           | 名詞               | ⬜     |
-| Energetic    | 精力充沛的               | 形容詞             | ⬜     |
-| Luggage      | 行李（不可數）           | 名詞               | ⬜     |
-| Awful        | 糟糕的、極壞的           | 形容詞             | ⬜     |
-| Heartbeat    | 心跳                     | 名詞               | ⬜     |
-| Upstairs     | 樓上、往樓上             | 副詞, 名詞, 形容詞 | ⬜     |
-| Vehicular    | 車輛的（正式）           | 形容詞             | ⬜     |
-| Secretary    | 秘書、部長(美)           | 名詞               | ⬜     |
-| Drill        | 演習 / 鑽孔機 / 反覆練習 | 名詞, 動詞         | ⬜     |
-| Semester     | 學期                     | 名詞               | ⬜     |
-| Jail         | 監獄、拘留所             | 名詞, 動詞         | ⬜     |
-| Brightness   | 亮度、聰明               | 名詞               | ⬜     |
-| Compact      | 緊湊的、小型的           | 形容詞, 名詞       | ⬜     |
-| Abolish      | 廢除（制度、法律）       | 動詞               | ⬜     |
-| Apprehensive | 憂慮的、擔心的           | 形容詞             | ⬜     |
-| Leather      | 皮革                     | 名詞               | ⬜     |
-| Badly        | 嚴重地/差勁地 / 非常     | 副詞               | ⬜     |
-| Unusual      | 不尋常的                 | 形容詞             | ⬜     |
-| Spoiled      | 被寵壞的 / 腐敗的        | 形容詞             | ⬜     |
-| Alarmed      | 驚恐的、擔憂的           | 形容詞             | ⬜     |
-| Newcomer     | 新來者、新手             | 名詞               | ⬜     |
-| Tidy         | 整潔的 / 整理            | 形容詞, 動詞       | ⬜     |
-| Plentiful    | 豐富的、充足的           | 形容詞             | ⬜     |
+| 單字            | 中文意思                 | 詞性               | 已測驗 |
+| --------------- | ------------------------ | ------------------ | ------ |
+| frustrations    | 挫折                     | 名詞               | ⬜     |
+| amusement       | 娛樂                     | 名詞               | ⬜     |
+| guides          | 指南                     | 名詞               | ⬜     |
+| dizzy           | 暈眩的                   | 形容詞             | ⬜     |
+| belly           | 腹部                     | 名詞               | ⬜     |
+| supervision     | 監督                     | 名詞               | ⬜     |
+| resemble        | 類似                     | 動詞               | ⬜     |
+| discrepancy     | 差異                     | 名詞               | ⬜     |
+| festive         | 節慶的                   | 形容詞             | ⬜     |
+| shortened       | 縮短了                   | 形容詞             | ⬜     |
+| standardized    | 標準化                   | 形容詞             | ⬜     |
+| disguised       | 偽裝的                   | 形容詞             | ⬜     |
+| pretentious     | 自命不凡的、炫耀的       | 形容詞             | ⬜     |
+| horrific        | 駭人聽聞的               | 形容詞             | ⬜     |
+| Cambridge       | 劍橋                     | 名詞               | ⬜     |
+| Oxford          | 牛津                     | 名詞               | ⬜     |
+| pray            | 祈禱                     | 動詞               | ⬜     |
+| flame           | 火焰                     | 動詞, 名詞         | ⬜     |
+| moderation      | 適度；節制               | 名詞               | ⬜     |
+| tulip           | 鬱金香                   | 名詞               | ⬜     |
+| descriptors     | 描述符；描述用語         | 名詞               | ⬜     |
+| centrally       | 位於中心地；集中地       | 副詞               | ⬜     |
+| punctuality     | 守時                     | 名詞               | ⬜     |
+| stickler        | 吹毛求疵的人             | 名詞               | ⬜     |
+| descend         | 下降；下來               | 動詞               | ⬜     |
+| errands         | 瑣事；跑腿               | 名詞               | ⬜     |
+| hammock         | 吊床                     | 名詞               | ⬜     |
+| Stubborn        | 固執的、倔強的           | 形容詞             | ⬜     |
+| Fitness         | 健身、健康狀況           | 名詞               | ⬜     |
+| Charity         | 慈善、慈善機構           | 名詞               | ⬜     |
+| Economist       | 經濟學家                 | 名詞               | ⬜     |
+| Reserve Bank    | 中央銀行 (部分國家用語)  | 名詞               | ⬜     |
+| Automobiles     | 汽車 (Auto)              | 名詞               | ⬜     |
+| Cottage         | 鄉間小屋、度假小別墅     | 名詞               | ⬜     |
+| Rustic          | 鄉村風的、質樸粗獷的     | 形容詞             | ⬜     |
+| Fade            | 逐漸消失、褪色           | 動詞               | ⬜     |
+| Emptiness       | 空虛(感)、空曠           | 名詞               | ⬜     |
+| Summon          | 傳喚/(遊戲)召喚          | 動詞               | ⬜     |
+| Silly           | 傻氣的、糊塗的           | 形容詞             | ⬜     |
+| Awe             | 敬畏、驚嘆               | 名詞, 動詞         | ⬜     |
+| Westbound       | 向西行的                 | 形容詞, 副詞       | ⬜     |
+| Elevation       | 海拔、標高、立面圖       | 名詞               | ⬜     |
+| Hallway         | 走廊、玄關               | 名詞               | ⬜     |
+| Corridor        | 走廊（較長/正式）        | 名詞               | ⬜     |
+| Cinema          | 電影院、電影業           | 名詞               | ⬜     |
+| Energetic       | 精力充沛的               | 形容詞             | ⬜     |
+| Luggage         | 行李（不可數）           | 名詞               | ⬜     |
+| Awful           | 糟糕的、極壞的           | 形容詞             | ⬜     |
+| Heartbeat       | 心跳                     | 名詞               | ⬜     |
+| Upstairs        | 樓上、往樓上             | 副詞, 名詞, 形容詞 | ⬜     |
+| Vehicular       | 車輛的（正式）           | 形容詞             | ⬜     |
+| Secretary       | 秘書、部長(美)           | 名詞               | ⬜     |
+| Drill           | 演習 / 鑽孔機 / 反覆練習 | 名詞, 動詞         | ⬜     |
+| Semester        | 學期                     | 名詞               | ⬜     |
+| Jail            | 監獄、拘留所             | 名詞, 動詞         | ⬜     |
+| Brightness      | 亮度、聰明               | 名詞               | ⬜     |
+| Compact         | 緊湊的、小型的           | 形容詞, 名詞       | ⬜     |
+| Abolish         | 廢除（制度、法律）       | 動詞               | ⬜     |
+| Apprehensive    | 憂慮的、擔心的           | 形容詞             | ⬜     |
+| Leather         | 皮革                     | 名詞               | ⬜     |
+| Badly           | 嚴重地/差勁地 / 非常     | 副詞               | ⬜     |
+| Unusual         | 不尋常的                 | 形容詞             | ⬜     |
+| Spoiled         | 被寵壞的 / 腐敗的        | 形容詞             | ⬜     |
+| Alarmed         | 驚恐的、擔憂的           | 形容詞             | ⬜     |
+| Newcomer        | 新來者、新手             | 名詞               | ⬜     |
+| Tidy            | 整潔的 / 整理            | 形容詞, 動詞       | ⬜     |
+| Plentiful       | 豐富的、充足的           | 形容詞             | ⬜     |
+| Co-worker       | 同事                     | 名詞               | ⬜     |
+| Rapidly         | 迅速地                   | 副詞               | ⬜     |
+| The public site | 公開網站 (前台)          | 名詞片語           | ⬜     |
+| The admin panel | 管理後台 (後台)          | 名詞片語           | ⬜     |
+| Safe space      | 安全空間 (心理上)        | 名詞               | ⬜     |
+| Compliment      | 讚美                     | 名詞, 動詞         | ⬜     |
+| Companion       | 同伴、伴侶               | 名詞               | ⬜     |
+| Extreme         | 極端的                   | 形容詞, 名詞       | ⬜     |
+| Probationer     | 試用期員工、緩刑犯       | 名詞               | ⬜     |
+| Regularity      | 規律性、經常性           | 名詞               | ⬜     |
+| Questionably    | 可疑地                   | 副詞               | ⬜     |
+| Sternly         | 嚴厘地                   | 副詞               | ⬜     |
+| Wanted          | 被徵求的、被通緝的       | 形容詞             | ⬜     |
+| Novice          | 新手、初學者             | 名詞, 形容詞       | ⬜     |
+| Improperly      | 不適當地、錯誤地         | 副詞               | ⬜     |
+| Endurance       | 耐力、持久力             | 名詞               | ⬜     |
+| Diploma         | 文憑、畢業證書           | 名詞               | ⬜     |
+| Zealous         | 熱衷的、狂熱的           | 形容詞             | ⬜     |
+| Apprentice      | 學徒、徒弟               | 名詞, 動詞         | ⬜     |
 
 ---
 
