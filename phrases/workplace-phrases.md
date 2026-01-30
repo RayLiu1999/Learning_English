@@ -1,15 +1,15 @@
 # 💼 職場片語庫
 
-> 最後更新：2026-01-16
+> 最後更新：2026-01-26
 
 ## 總覽
 
 | 重要程度       | 數量    |
 | -------------- | ------- |
-| ⭐⭐⭐⭐⭐ (5) | 55      |
+| ⭐⭐⭐⭐⭐ (5) | 64      |
 | ⭐⭐⭐⭐ (4)   | 45      |
-| ⭐⭐⭐ (3)     | 30      |
-| **總計**       | **130** |
+| ⭐⭐⭐ (3)     | 16      |
+| **總計**       | **125** |
 
 ---
 
@@ -63,7 +63,16 @@
 | as small as possible | 越小越好、盡可能小 | PR拆分/優化 | Please keep the PR as small as possible to make the code review easier. | ⬜ |
 | dove into / dive into | 深入鑽研、埋頭苦幹 | 除錯/技術研究 | I dove into the legacy code to find the root cause of the bug. | ⬜ |
 | as for | 至於...、關於... | 郵件溝通/話題轉換 | The code is ready. As for the documentation, I'll finish it by tomorrow. | ⬜ |
+| reach out | 主動聯繫 | 聯繫 | Feel free to reach out if you have questions. | ⬜ |
+| touch base | 簡單聯繫、對焦 | 聯繫 | Let's touch base next week. | ⬜ |
+| in light of | 鑑於、考慮到 | 正式溝通 | In light of the data breach, we improved security. | ⬜ |
 | sync up | 同步資訊、對焦進度 | 團隊溝通/專案管理 | Let's sync up later to discuss the project details. | ⬜ |
+| in pairs | 成雙成對、兩人一組 | Pair Programming | Let's work in pairs to refactor this module. | ⬜ |
+| regardless of | 不管、不顧 | 條件說明 | It must work regardless of the browser. | ⬜ |
+| pertaining to | 關於、有關 | 正式文件 | Please review documents pertaining to the merger. | ⬜ |
+| hands-on | 實務的、親手做的 | 履歷 | I have hands-on experience with AWS. | ⬜ |
+| familiar with | 熟悉的 | 技能 | Are you familiar with Python frameworks? | ⬜ |
+| excel at | 擅長、精通 | 能力 | She excels at optimizing queries. | ⬜ |
 | move on | 繼續進行（下一個議題） | 會議主持 | We are running out of time, so let's move on to the next ticket. | ⬜ |
 | trade-off | 取捨、權衡 | 架構決策 | Speed vs. memory is a classic trade-off. | ⬜ |
 | bottleneck | 瓶頸 | 效能優化 | The database write speed is the bottleneck. | ⬜ |
